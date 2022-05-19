@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Papulito Jesus Juvinao  cambio rama protegida prueba 5  <a href="https://nextjs.org">Next.js!</a>
+          Welcome to Papulito Jesus Juvinao  cambio rama protegida prueba 6  <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
